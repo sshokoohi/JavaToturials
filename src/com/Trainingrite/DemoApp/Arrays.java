@@ -1,5 +1,7 @@
 package com.Trainingrite.DemoApp;
 
+
+// This class practices with arrays
 public class Arrays {
 
 	public static void main(String[] args) {
